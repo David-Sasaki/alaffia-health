@@ -7,7 +7,7 @@ import Schema from "./schema/schema"; // Import GraphQL schema
 import Resolvers from "./resolvers/resolvers"; // Import GraphQL resolvers
 import AppDataSource from "./typeorm.config"; // Import data source configuration
 
-const startServer = async () => {
+export const startServer = async () => {
     // Initialize data source
     await AppDataSource.initialize();
 
