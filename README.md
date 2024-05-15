@@ -48,13 +48,13 @@ The project follows a structured architecture to maintain clarity and organizati
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/David-Sasaki/alaffia-health.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd <project-directory>
+   cd alaffia-health
    ```
 
 3. **Install Dependencies**:
